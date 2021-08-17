@@ -2,3 +2,5 @@ My name is Tarak dev
 Who made changes and what
 git add .
 Sent file to 
+lets see the changes after writing the command 
+git status 
